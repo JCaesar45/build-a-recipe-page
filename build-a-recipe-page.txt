@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Classic Chocolate Chip Cookies</title>
+</head>
+
+<body>
+    <h1>Classic Chocolate Chip Cookies</h1>
+    <p>These classic chocolate chip cookies are soft, chewy, and loaded with delicious chocolate chunks. Perfect for any occasion!</p>
+
+    <h2>Ingredients</h2>
+    <ul>
+        <li>2 1/4 cups all-purpose flour</li>
+        <li>1/2 cup unsalted butter, softened</li>
+        <li>1 cup granulated sugar</li>
+        <li>2 cups semi-sweet chocolate chips</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+        <li>Preheat the oven to 350°F (175°C).</li>
+        <li>In a large bowl, cream together the butter and sugar until smooth.</li>
+        <li>Add the flour and mix until well combined. Stir in the chocolate chips.</li>
+        <li>Drop rounded tablespoons of dough onto a baking sheet and bake for 10-12 minutes until golden brown.</li>
+    </ol>
+
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Plate of classic chocolate chip cookies">
+</body>
+
+</html>
